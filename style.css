@@ -1,0 +1,252 @@
+/* Navigation  */
+.customNav {
+    position: fixed;
+    width: 100%;
+    background: url("../images/transparency.png");
+    background-color: white !important;
+    background-size: cover;
+    z-index: 10;
+  }
+  
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+  }
+  
+  .navbar-brand {
+    font-size:16px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .navbar-brand img {
+    padding-right: 15px;
+    width: 65px;
+  }
+  .nav-item {
+    margin: 0px 15px;
+    font-size:16px;
+    font-family: proxima-nova, sans-serif;
+  }
+  /* Navigation End  */
+
+
+.jumbotron {
+    height: 500px;
+    background-color:#F5F2FD;
+  
+}
+
+.jumbotron .display-4 {
+    margin-top: 50px;
+    margin-bottom:20px;
+    font-size: 50px;
+    font-family: poppins, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+/* Research & Discovery  */
+
+.col-md-2 {
+    padding:60px;
+}
+
+.lead {
+    margin-bottom: 20px;
+}
+/* Research & Discovery End */
+
+.row {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.jumbotronProblem {
+    background-color: #E1D6FD;   
+    height: 250px;
+    margin-top:50px;
+    margin-bottom:30px;
+    padding: 10px;
+}
+
+.jumbotronProblem .container {
+    margin-top:70px;
+}
+
+.jumbotronProblem .statement {
+    font-weight:bold;
+}
+
+h2 {
+    font-size: 16px;
+    font-family: poppins, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+h3 {
+    font-family: poppins, sans-serif;
+    font-weight:bold;
+    font-size: 24px;
+
+}
+
+
+p {
+    font-size: 20px;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.container {
+    margin-top: 70px;
+}
+.container p {
+    font-size: 18px;
+}
+
+.cards h2 {
+    font-weight:bold;
+    font-size: 24px;
+}
+
+.cards h3 {
+    font-weight:bold;
+    font-size:18px;
+}
+
+.annotation {
+    margin-top: 50px;
+}
+
+.annotation h2 {
+    font-weight:bold;
+    font-size: 24px;
+}
+
+.annotation h3 {
+    font-weight:bold;
+    font-size:18px;
+}
+
+.annotation .container {
+    padding-top: 20px;
+}
+.jumbotronProblem h2 {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+.usabilityTesting h2 {
+    font-weight:bold;
+    font-size: 24px;
+}
+
+.cardSorting h2 {
+    font-weight:bold;
+    font-size: 24px;
+}
+
+.cardSorting h3 {
+    font-weight:bold;
+    font-size: 18px;
+}
+
+.wireframesPrototyping h3 {
+    font-weight:bold;
+    font-size: 18px;
+}
+}
+
+.usabilityTesting h4 {
+    font-size: 20px;
+    font-family: proxima-nova, sans-serif;
+    font-style: italic;
+   
+}
+
+.usabilityTesting h3 {
+    font-weight:bold;
+    font-size:18px;
+    padding-top: 10px;
+
+}
+
+    /* Brand */
+
+    .brand h3 {
+    font-weight:bold;
+    font-size: 18px;
+    }
+
+    .brand h2 {
+    font-weight:bold;
+    font-size: 24px;
+    }
+
+    ul {
+        margin-bottom: 50px;
+    }
+    li {
+    color: #3702AF;
+    font-size:18px;
+    }
+    /* End Brand */
+
+
+
+    /* Footer */
+    .navlinksFooter {
+        font-family: proxima-nova, sans-serif;
+        text-decoration: none;
+        color: white;
+        margin-top:30px;
+       
+      }
+      
+      .fa {
+        color: white;
+        padding: 30px;
+    
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+      
+      .footer {
+        color:white;
+       
+      }
+      
+      .bottomNav {
+        display: flex;
+        background-color: #301667;
+        height:200px;
+      
+      }
+      
+      .socialMedia {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+      }
+      
+    
+      .socialMedia .container {
+        text-align: left;
+      }
+      
+      .copyright {
+        font-size: 16px;
+        font-family: proxima-nova, sans-serif;
+        color: white;
+        display: block;
+        width:100%;
+        padding-top:50px;
+      
+      }
+        /* Footer End*/
